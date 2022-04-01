@@ -61,7 +61,7 @@ function EditCard() {
           onChange={handleChange}
           value={card.front}
           placeholder="front side of card"
-          class="form-control"
+          className="form-control"
         ></textarea>
         <label>Back</label>
         <textarea
@@ -71,7 +71,7 @@ function EditCard() {
           onChange={handleChange}
           value={card.back}
           placeholder="back side of card"
-          class="form-control"
+          className="form-control"
         ></textarea>
         {/* If the user clicks "Done", the user is taken to the Deck screen. */}
         <button

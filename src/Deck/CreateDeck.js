@@ -75,7 +75,7 @@ function CreateDeck() {
             onChange={handleChange}
             value={deck.description}
             placeholder="1-2 sentences describing content of your deck"
-            class="form-control"
+            className="form-control"
           ></textarea>
 
           <p></p>
