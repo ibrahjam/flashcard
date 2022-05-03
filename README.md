@@ -1,3 +1,4 @@
 # flashcard
 
-Flashcard app for studying using React
+Flashcard App assignment using JSX, Javascript and React.
+
